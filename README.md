@@ -14,8 +14,11 @@ Establish a computational workflow that may support future conference abstracts,
 Learning Progress
 
 Class 01 — Basic COMSOL Workflow
+
 Date: September 4, 2026
+
 Topics covered:
+
 Creating a new COMSOL model
 Building simple 2D geometry
 Assigning material properties
