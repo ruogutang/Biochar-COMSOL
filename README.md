@@ -17,23 +17,7 @@ Class 01 — Basic COMSOL Workflow
 
 Date: September 4, 2026
 
-Topics covered:
-
-Creating a new COMSOL model
-
-Building simple 2D geometry
-
-Assigning material properties
-
-Setting up basic physics
-
-Generating a mesh
-
-Running a stationary simulation
-
-Visualizing simulation results
-
-Exporting figures
+Topics covered: Creating a new COMSOL model, Building simple 2D geometry, Assigning material properties, Setting up basic physics, Generating a mesh, Running a stationary simulation, Visualizing simulation results, Exporting figures
 
 This class serves as the starting point of the project and focuses primarily on becoming familiar with the COMSOL interface and modeling workflow.
 
