@@ -37,19 +37,6 @@ Exporting figures
 
 This class serves as the starting point of the project and focuses primarily on becoming familiar with the COMSOL interface and modeling workflow.
 
-Future Directions
-
-Possible future steps include:
-
-Parameter sweeps
-Heat transfer in porous materials
-Water transport
-Mass transfer and diffusion
-Porous-media modeling
-Simplified biochar structures
-Biochar–water interactions
-Biochar–hydrogel transport models
-
 The scope of the project will evolve gradually as the modeling skills and research questions develop.
 
 Software
