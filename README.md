@@ -5,11 +5,11 @@ This repository documents my step-by-step learning and preliminary modeling work
 The project starts from basic COMSOL operations and simple physical models, with the long-term goal of developing computational models relevant to biochar-based systems, including heat transfer, mass transport, water movement, and porous-media processes.
 
 ## Project Goals
-Learn COMSOL Multiphysics from the beginner level
-Build simple and reproducible simulation models
-Develop a basic understanding of geometry, materials, physics, meshing, and post-processing
-Gradually transition from tutorial-level models to biochar-related transport problems
-Establish a computational workflow that may support future conference abstracts, preliminary studies, and research papers
+- Learn COMSOL Multiphysics from the beginner level
+- Build simple and reproducible simulation models
+- Develop a basic understanding of geometry, materials, physics, meshing, and post-processing
+- Gradually transition from tutorial-level models to biochar-related transport problems
+- Establish a computational workflow that may support future conference abstracts, preliminary studies, and research papers
 --------------------------------------------------------------------------------------------------------------------
 Learning Progress
 
