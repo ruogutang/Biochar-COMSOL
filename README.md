@@ -11,9 +11,9 @@ The project starts from basic COMSOL operations and simple physical models, with
 - Gradually transition from tutorial-level models to biochar-related transport problems
 - Establish a computational workflow that may support future conference abstracts, preliminary studies, and research papers
 --------------------------------------------------------------------------------------------------------------------
-Learning Progress
+## Learning Progress
 
-Class 01 — Basic COMSOL Workflow
+-Class 01 — Basic COMSOL Workflow
 
 Date: September 4, 2026
 
