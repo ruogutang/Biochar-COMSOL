@@ -10,7 +10,7 @@ Build simple and reproducible simulation models
 Develop a basic understanding of geometry, materials, physics, meshing, and post-processing
 Gradually transition from tutorial-level models to biochar-related transport problems
 Establish a computational workflow that may support future conference abstracts, preliminary studies, and research papers
-
+--------------------------------------------------------------------------------------------------------------------
 Learning Progress
 
 Class 01 — Basic COMSOL Workflow
@@ -21,6 +21,7 @@ Topics covered: Creating a new COMSOL model, Building simple 2D geometry, Assign
 
 This class serves as the starting point of the project and focuses primarily on becoming familiar with the COMSOL interface and modeling workflow.
 
+--------------------------------------------------------------------------------------------------------------------
 The scope of the project will evolve gradually as the modeling skills and research questions develop.
 
 Software
