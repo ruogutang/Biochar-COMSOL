@@ -37,21 +37,6 @@ Exporting figures
 
 This class serves as the starting point of the project and focuses primarily on becoming familiar with the COMSOL interface and modeling workflow.
 
-Repository Structure
-
-biochar-comsol/
-│
-├── README.md
-│
-├── class-01/
-│   ├── model/
-
-│   ├── figures/
-
-│   └── notes/
-│
-└── future-models/
-
 Future Directions
 
 Possible future steps include:
