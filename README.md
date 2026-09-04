@@ -13,7 +13,7 @@ The project starts from basic COMSOL operations and simple physical models, with
 --------------------------------------------------------------------------------------------------------------------
 ## Learning Progress
 
--Class 01 — Basic COMSOL Workflow
+- Class 01 — Basic COMSOL Workflow
 
 Date: September 4, 2026
 
